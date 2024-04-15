@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Calculo",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_Calculo",
+  "deleted": false,
+  "gitSyncId": "661d4966edd38109d6d865d9_661d4f5df43f8c3fbb8cf669"
+}
